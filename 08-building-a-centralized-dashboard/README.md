@@ -22,3 +22,4 @@ services:
 ![img.png](img.png)
 ![img_2.png](img_2.png)
   - using icon to customize
+- Deploy and configure IT-tools 
